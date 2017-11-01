@@ -1,10 +1,11 @@
-package com.slp.com.thenewsroom;
+package com.slp.com.thenewsroom.ui;
 
 import android.support.annotation.NonNull;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.util.Log;
 
+import com.slp.com.thenewsroom.R;
 import com.slp.com.thenewsroom.data.News;
 import com.slp.com.thenewsroom.data.NewsArticles;
 import com.slp.com.thenewsroom.network.NewsService;
